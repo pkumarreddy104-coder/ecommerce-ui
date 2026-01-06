@@ -25,6 +25,11 @@ This project focuses on layout design, responsiveness, and clean UI.
    git clone https://github.com/pkumarreddy104-coder/ecommerce-ui.git
 2.Open index.html in any browser
 
+## ⚠️ Disclaimer
+This project is a **UI-only educational project** built for learning frontend development.
+It does **not collect any personal data**, does **not process payments**, and does **not include backend functionality**.
+
+
 👤 Author
 
 K. Prem Kumar Reddy
