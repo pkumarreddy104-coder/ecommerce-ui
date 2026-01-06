@@ -17,12 +17,14 @@
   
 }
 
-.logo{
-  background-image: url("logo.png");
-  height: 50px;
-  width: 100px;
-  background-size: cover;
+.logo-text {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
 }
+
+
 .border{
   border: 2px solid transparent;
 
